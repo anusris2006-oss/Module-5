@@ -1,4 +1,4 @@
-# Exp.No:25  
+# Exp.No: 5C  
 ## Hierarchical Inheritance
 
 ---
@@ -27,9 +27,11 @@ To write a Python program to get the employee and doctor details and display the
 ---
 
 ### PROGRAM
+
+```
 NAME:ANUSRI SRIDHAR
 REG NO: 212223020002
-```
+
 class Details:
     def __init__(self):
         self.__id="<No Id>"
