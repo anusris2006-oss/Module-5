@@ -1,4 +1,4 @@
-# Exp.No:24  
+# Exp.No: 5D 
 ## Multi-level Inheritance
 
 ---
@@ -39,6 +39,9 @@ To write a Python program to get the name, age, and ID of a person and display t
 ### PROGRAM
 
 ```
+#REG NO: 212223020002
+#NAME:  ANUSRI SRIDHAR
+
 class Parent:
    def __init__(self,name):
      self.name = name
