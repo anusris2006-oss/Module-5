@@ -1,4 +1,4 @@
-# Exp.No:21  
+# Exp.No: 5A 
 ## Constructors - Parameterized Constructor
 
 ---
@@ -24,6 +24,9 @@ To write a Python code to create a class for a person with a parameterized const
 ### PROGRAM
 
 ```
+#REG NO: 212223020002
+#NAME:  ANUSRI SRIDHAR
+
 class Person:
     # parameterized constructor
     def __init__(self, name, uid):
