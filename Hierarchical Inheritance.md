@@ -29,8 +29,8 @@ To write a Python program to get the employee and doctor details and display the
 ### PROGRAM
 
 ```
-NAME:ANUSRI SRIDHAR
-REG NO: 212223020002
+#REG NO: 212223020002
+#NAME:  ANUSRI SRIDHAR
 
 class Details:
     def __init__(self):
