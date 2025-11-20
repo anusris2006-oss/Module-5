@@ -1,4 +1,4 @@
-# Exp.No:23  
+# Exp.No: 5E  
 ## Multiple Inheritance
 
 ---
@@ -32,6 +32,9 @@ To write a Python program to get the name, attendance, and ID of a student and c
 ### PROGRAM
 
 ```
+#REG NO: 212223020002
+#NAME:  ANUSRI SRIDHAR
+
 class Person:  
     #defining constructor  
     def __init__(self, personName, personAge):  
