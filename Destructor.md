@@ -1,4 +1,4 @@
-# Exp.No:22  
+# Exp.No: 5B
 ## Destructor
 
 ---
@@ -22,6 +22,9 @@ To create a Python class `Student` with a destructor.
 ### PROGRAM
 
 ```
+#REG NO: 212223020002
+#NAME:  ANUSRI SRIDHAR
+
 class Student:
     def __init__(self, name, age):
         self.name = name
